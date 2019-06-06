@@ -1,12 +1,12 @@
-# MotorBike-ShowRoom-System
-#C++ language that apply class and object,linked list,searching and sorting. 
-#This program have several function such as insert,delete,search,refresh and delete.
-#This program also have computer security technique when try to insert password, the word of password was encrypt using coding technique.
-#This program about model of motorbike and learning process in data structure and algorithm.
+// MotorBike-ShowRoom-System
+//C++ language that apply class and object,linked list,searching and sorting. 
+//This program have several function such as insert,delete,search,refresh and delete.
+//This program also have computer security technique when try to insert password, the word of password was encrypt using coding technique.
+//This program about model of motorbike and learning process in data structure and algorithm.
 
 
 
-#Main.cpp
+//Main.cpp
 
 //************Thiasan,Razin,Aimi,Omar************
 #include<iostream>
@@ -140,7 +140,7 @@ cout << "_________________________________________Welcome_______________________
 				//cout << "\n\n----------Thankyou for using this system-----------\n\n";
 				goto  end;
         
-        #motor.cpp
+        //motor.cpp
         
 
 #include <conio.h>
@@ -628,7 +628,7 @@ template class List<double>;
 
 }
 
-#motor.cpp
+//motor.cpp
 
 
 #include <conio.h>
@@ -1094,7 +1094,7 @@ template class List<int>;
 
 template class List<double>;
 
-#motor.h
+//motor.h
 //**********THIASAN,RAZIN,AIMI,OMAR***********
 #ifndef MOTOR_H 
 #define MOTOR_H
