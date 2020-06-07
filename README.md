@@ -1,0 +1,2 @@
+# MotorBike-ShowRoom-System
+C++ language that apply class and object,linked list,searching and sorting. This program have several function such as insert,delete,search,refresh and delete.This program also have computer security technique when try to insert password, the word of password was encrypt using coding technique. This program about model of motorbike and learning process in data structure and algorithm.
